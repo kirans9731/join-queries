@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: join.queries
+---
+testFramework: junit
+sourceLanguage: java
